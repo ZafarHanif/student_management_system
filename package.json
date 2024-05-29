@@ -1,0 +1,23 @@
+{
+  "name": "zefi_student_management_system",
+  "version": "1.0.0",
+  "description": "CLI based Student Management System project with TypeScript, Node.js, Inquirer and Chalk",
+  "main": "main.js",
+  "type": "module",
+  "bin": {
+    "zefi_student_management_system": "main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zafar Hanif",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
